@@ -1,10 +1,10 @@
-## FastAPI with Python 3.9.7
+## FastAPI with Python 3.10.2
 ### Image based entirely on "tiangolo" with the difference for python 3.9
 -----
 			
 #### Pull image
 ```
-docker pull izone/fastapi:3.9-slim
+docker pull izone/fastapi:3.10-slim
 ```
 
 #### Run
@@ -22,6 +22,6 @@ http://localhost:8080/
 docker build -t izone/fastapi .
 ```
 ```
-docker build -t izone/fastapi:3.9-slim .
+docker build -t izone/fastapi:3.10-slim .
 ```
 
