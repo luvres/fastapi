@@ -1,4 +1,4 @@
-FROM python:3.11-slim
+FROM izone/stegastamp:datamachines-gpu
 LABEL maintainer="Leonardo Loures <luvres@hotmail.com>"
 
 ## References:
