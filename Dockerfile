@@ -1,4 +1,4 @@
-FROM python:3.11-slim
+FROM python:3.11.3-slim
 LABEL maintainer="Leonardo Loures <luvres@hotmail.com>"
 
 ## References:
